@@ -1,0 +1,29 @@
+{
+  "name": "jorge_y_perla_api",
+  "version": "0.0.1",
+  "description": "API",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "Cristobal Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^2.5.0",
+    "Faker": "^0.7.2",
+    "body-parser": "^1.15.1",
+    "csv": "^5.1.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "forest-express-mongoose": "^3.1.1",
+    "mongodb": "^2.1.18",
+    "mongoose": "^4.4.16",
+    "mongoose-type-email": "^1.0.11",
+    "nodemailer": "^6.1.1",
+    "nodemailer-express-handlebars": "^3.1.0",
+    "nodemailer-handlebars": "^1.0.1",
+    "parse-data-uri": "^0.2.0",
+    "remove-accents": "^0.4.2",
+    "twilio": "^3.31.0"
+  }
+}

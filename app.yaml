@@ -1,0 +1,5 @@
+runtime: nodejs10
+env_variables:
+     ACCOUNT_SID: 'ACab2bf04341bd56b3f0829b10ecf47702'
+     AUTH_TOKEN: '744d20aced2f0a97d3d363bf8c568e7f'
+     EMAIL_PSW: 'Nkhmecu0EQZf'
